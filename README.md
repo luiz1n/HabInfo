@@ -6,7 +6,7 @@ Get Habbo Info by Discord
 
 Get Started
 ```python
-from hbapi import hbapi
+from hbapi import HabboAPI
 
 api = HabboAPI()
 
